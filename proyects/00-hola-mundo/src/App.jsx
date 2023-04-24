@@ -10,8 +10,8 @@ export function App(){
             isFollowing: true
         },
         {
-            userName: 'midudev',
-            name:'Miguel angel duran',
+            userName: 'emilianorios1',
+            name:'Emliano Rios',
             isFollowing:false
         }
 
